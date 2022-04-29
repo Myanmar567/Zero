@@ -247,7 +247,7 @@ _________________________________________________________________________
 [+] Facebook - CHAN.MYAE.000
 [+] GitHub   - https://github.com/Myanmar567
 [+] Country  - Myanmar 
-[+] Enjoy brother  
+[+] Enjoy brother  💓💓💓💓
 __________________________________________________________________________
 """%(N))
 
@@ -265,7 +265,7 @@ def ___RecodeSampah__():
 
 		________LOGOSCRIPTNYA__________()
 
-		______DICKYXD______(f" \n {P}[{H}!{P}] Tokens must be fresh and EAAB \n {P}[{H}!{P}] If the token is not EAAB then it will fail Dump")
+		______DICKYXD______(f" \n {P}[{H}!{P}] Tokens must be fresh and EAAB💓💓 \n {P}[{H}!{P}] If the token is not EAAB then it will fail Dump")
 
 		token = ______DickyGans______(f'{P} [{H}?{P}] Token : ')
 
